@@ -1,0 +1,19 @@
+body {
+	background-image: url("https://image.shutterstock.com/z/stock-photo-navy-blue-and-white-question-mark-symbol-pattern-repeat-background-that-is-seamless-and-repeats-223489276.jpg");
+}
+
+h1 {
+	font-size: 100px;
+}
+
+h2 {
+	font-size: 40px;
+}
+
+.container {
+	background: #eeeeee;
+	position: center;
+	text-align: center;
+	width: 1080px;
+	font-family: 'Bungee Shade', cursive;
+}
